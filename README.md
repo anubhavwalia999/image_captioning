@@ -33,7 +33,7 @@ Basic test script is included to validate output on a sample image using `pytest
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/image-captioning-app.git
+git clone https://github.com/anubhavwalia999/image-captioning-app.git
 cd image-captioning-app
 pip install -r requirements.txt
 python app.py
