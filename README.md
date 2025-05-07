@@ -4,7 +4,7 @@ This is a simple web application that generates captions for images using a pret
 
 ## 🚀 Demo
 
-Try it live: [Hugging Face Spaces Link](https://huggingface.co/spaces/your-username/your-app-name)
+Try it live: [Hugging Face Spaces Link](https://huggingface.co/spaces/anubhavv1/image-captioning-demo)
 
 ## 📌 Features
 
